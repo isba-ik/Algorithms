@@ -1,1 +1,1 @@
-Various Deep and Classical machine learning algorithms
+Various algorithms 
